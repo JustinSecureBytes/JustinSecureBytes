@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing DiskSanitation](https://github.com/JustinSecureBytes/DiskSanitation)
 
 
 <h2> - Certifications</h2>
