@@ -7,8 +7,8 @@
 
 <h2> - Certifications</h2>
 
-- [Comptia A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google IT Support Professional](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Comptia A+](https://www.credly.com/badges/3fb30c85-dfbe-4a84-a3c3-85c30f027000/linked_in_profile)
+- [Google IT Support Professional](https://coursera.org/share/3769476549c7b77c23b0bf570f0e8ac3)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -22,17 +22,3 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
